@@ -1,0 +1,31 @@
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 4 b
+**function	**harm	**kern	**kern	**kern	**kern
+*	*	*clefF4	*clefG2	*clefG2	*clefG2
+*	*	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*g:	*g:	*g:	*g:	*g:	*g:
+8T	.	8BBB 8BB	8d	(8g	(8gg
+=77	=77	=77	=77	=77	=77
+8P	.	(8CCL 8C	(8GL	8ee-L	8eee-L
+4P	.	8FFJ 8F	8A-J	8ddJ	8dddJ
+.	.	8AA-L 8A-	8fL	8dd-L	8ddd-L
+8P	.	8GGJ) 8G	8dJ)	8bJ)	8bbJ)
+=78	=78	=78	=78	=78	=78
+4P	.	(8.EE-L 8.E-	(8.gL	(8.ccL	(8.cccL
+.	.	16DDJk 16D	16BJk	16ddJk	16dddJk
+4P	.	8CC) 8C	8c)	8ee-L)	8eee-L)
+.	.	8r	8r	8e-J 8cc	8ggJ
+=79	=79	=79	=79	=79	=79
+2D	.	4r	4r	4.d 4.cc	(8.ff#L
+.	.	.	.	.	16ggJk
+.	.	8r	8r	.	8aa)
+*	*	*	*clefF4	*	*
+.	.	8DD 8C	8F#	8r	8r
+=80	=80	=80	=80	=80	=80
+4.T	.	4GG 4BB-	(8.GL	4.r	4.r
+.	.	.	16AJk	.	.
+.	.	8r	8B-)	.	.
+*-	*-	*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

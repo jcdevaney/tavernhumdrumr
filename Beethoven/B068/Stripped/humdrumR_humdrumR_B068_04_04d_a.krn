@@ -1,0 +1,49 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Variation 4 d
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+4.T	G:maj	4.r	(8gL
+.	.	.	8a-
+.	.	.	8gJ)
+=77	=77	=77	=77
+4T	C:min/b3	(8e-L	(4cc
+.	.	8g	.
+4T	B:dim7/b5	8f	4b
+.	.	8a-J	.
+2T	C:min/b3	4e-) 4g	8ccL
+.	.	.	8ee-
+.	.	4r	8gg
+.	.	.	8ee-J)
+*	*	*clefF4	*
+=78	=78	=78	=78
+*	*	*^	*
+4P	.	8d-L	(4F	(4dd-
+.	.	8A-	.	.
+4P	A-:7/b7	8e-	4G-	4cc
+.	.	8A-J	.	.
+2P	.	4d-	4F)	8dd-L
+.	.	.	.	8aa-
+.	.	4r	4r	8ff
+.	.	.	.	8dd-J)
+=79	=79	=79	=79	=79
+2P	.	2AAA- 2AA-	(8ccL	2f#
+.	.	.	8ee-	.
+.	.	.	8dd	.
+.	.	.	8ccJ)	.
+2D	G:(1,3,5,b7,b9)	2GGG 2GG	2b	(8fL
+.	.	.	.	8a-
+.	.	.	.	8g
+.	.	.	.	8fJ)
+=80	=80	=80	=80	=80
+2T	C:min	4CC 4C	[2cc	(8e-L
+.	.	.	.	8g
+.	.	4r	.	8e-
+.	.	.	.	8dJ)
+8T	C:min	8r	8cc]	4c
+*	*	*v	*v	*
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

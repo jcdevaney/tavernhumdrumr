@@ -1,0 +1,22 @@
+!!!COM: Beethoven
+!!!OTL: Sechs Variationen uber ein Schweizer Lied
+!!!Variation: Theme b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*	*	*met(c)	*met(c)
+*M4/4	*M4/4	*M4/4	*M4/4
+*F:	*F:	*F:	*F:
+4T	B-:maj	(4F'	(4cc'
+=4	=4	=4	=4
+1T	F:maj/3	4E'	4cc'
+.	.	4D'	4dd'
+.	.	4C'	4ee'
+.	.	4E')	4cc')
+=5	=5	=5	=5
+2T	G:min	2D`	2ff`
+2P	C:min	2G`	2dd`
+=6	=6	=6	=6
+2.D	F:maj	2.C	2.cc
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

@@ -1,0 +1,63 @@
+!!!COM: Mozart
+!!!OTL: Sieben Variationen in D uber das hollandische Lied Willem van Nassau 
+!!!Variation: Variation 2 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/2	*M2/2	*M2/2	*M2/2
+*D:	*D:	*D:	*D:
+4T	B:maj	8A	8r
+.	.	8r	8a
+=37	=37	=37	=37
+4T	E:maj	8D	8r
+.	.	8r	8f# 8dd
+4T	B:maj	8AA	8r
+.	.	8r	8e 8cc#
+2T	E:maj	8D	8r
+.	.	8r	8f# 8dd
+.	.	8d	8r
+.	.	8r	8a 8ff#
+=38	=38	=38	=38
+2.T	B:maj	8A	8r
+.	.	8r	8cc# 8ee
+.	.	8AA	8r
+.	.	8r	8b 8dd
+.	.	8A	8r
+.	.	8r	8cc# 8ee
+4T	B:maj/3	8c#	8r
+.	.	8r	8a 8aa
+=39	=39	=39	=39
+2T	E:maj	8d	8r
+.	.	8r	8a 8gg
+.	.	8D	8r
+.	.	8r	8a 8ff#
+2T	B:maj	8A	8r
+.	.	8r	8cc# 8ee
+.	.	8AA	8r
+.	.	8r	8a 8aa
+=40	=40	=40	=40
+2T	B:7	8A	8r
+.	.	8r	8a 8gg
+.	.	8C#	8r
+.	.	8r	8ee 8gg
+2T	E:maj	8D	8r
+.	.	8r	8a 8gg
+.	.	8DD	8r
+.	.	8r	8a 8ff#
+=41	=41	=41	=41
+2P	F#:min7/b3	8GG	8r
+.	.	8r	8dd 8ee
+.	.	8G	8r
+.	.	8r	8dd 8ee
+4D	B:maj	8A	8r
+.	.	8r	8cc# 8ee
+4D	B:7	8AA	8r
+.	.	8r	8g 8cc#
+=42	=42	=42	=42
+2.T	E:maj	8D	(2g 2cc#
+.	.	8r	.
+.	.	8AA	.
+.	.	8r	.
+.	.	4DD	4f#) 4dd
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

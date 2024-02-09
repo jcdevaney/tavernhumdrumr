@@ -1,0 +1,57 @@
+!!!COM: Beethoven
+!!!OTL: Sechs Variationen uber ein Schweizer Lied
+!!!Variation: Variation 5 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*	*	*met(c)	*met(c)
+*M4/4	*M4/4	*M4/4	*M4/4
+*F:	*F:	*F:	*F:
+4T	F:maj	8C	4cc
+.	.	8BB-J	.
+=62	=62	=62	=62
+2T	B-:maj/3	4AA)	(8ffL
+.	.	.	8f
+.	.	8r	8ee
+.	.	(8c	8fJ)
+4T	E-:maj	4B-')	8r
+.	.	.	(8dd
+4T	B-:maj/3	4A'	8fL
+.	.	.	8ccJ)
+=63	=63	=63	=63
+2T	B-:maj/3	4r	(8ffL
+.	.	.	8f
+.	.	8r	8ee
+.	.	(8c	8fJ)
+*	*	*	*^
+4T	E-:maj	4B-')	8r	4r
+.	.	.	(8dd	.
+4T	F:7/5	(4G	8ccL	4e
+.	.	.	8b-J)	.
+=64	=64	=64	=64	=64
+4T	B-:maj	8FL	(8aL	4f
+.	.	8c	8cc	.
+*	*	*	*v	*v
+4T	F:7/5	8G	8b-
+.	.	8cJ	8eeJ
+4T	B-:maj/3	8AL	8ccL
+.	.	8c	8ff
+4P	C:min/b3	8B-	8dd
+.	.	8dJ)	8ggJ)
+=65	=65	=65	=65
+2D	B-:maj/5	2c	8r
+.	.	.	(8a 8ff
+.	.	.	8ccL 8ee
+.	.	.	8b-J 8dd
+2D	F:7	2C	8aL 8cc
+.	.	.	8b- 8dd
+.	.	.	8a 8cc
+.	.	.	8gJ 8b-
+=66	=66	=66	=66
+2.T	B-:maj	2.FF 2.F	8fL 8a
+.	.	.	8c 8g
+.	.	.	8A 8f
+.	.	.	8cJ 8g
+.	.	.	4A) 4f
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

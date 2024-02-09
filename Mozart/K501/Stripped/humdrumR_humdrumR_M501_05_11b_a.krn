@@ -1,0 +1,38 @@
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 b3
+**function	**harm	**kern	**kern	**kern	**kern
+*	*	*clefF4	*clefF4	*clefG2	*clefG2
+*	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:	*G:	*G:	*G:
+8T	D:maj	8r	8r	8r	(16.ddLL
+.	.	.	.	.	32eeJJk)
+=137	=137	=137	=137	=137	=137
+2T	D:7	(8GG'L	(8d'L	(8g'L 8b'	(8ff'L
+.	.	8GG'J	8d'J	8g'J 8b'	8ff'J
+.	.	8GG'L	8d'L	8g'L 8b'	8ff'L
+.	.	8GG'J)	8d'J)	8g'J) 8b'	8ff'J)
+=138	=138	=138	=138	=138	=138
+*	*	*	*	*^	*
+4P	G:maj	(4C	4c	4cc	2g	8.eeL
+.	.	.	.	.	.	16ff#Jk
+4P	D:maj/3	4BB	[4G	4dd	.	8ggL
+.	.	.	.	.	.	8ggJ
+*	*	*	*	*v	*v	*
+=139	=139	=139	=139	=139	=139
+4P	E:min/b3	4C	8GL]	(4ee	4.aa
+.	.	.	8gJ	.	.
+8D	A:maj	4D)	32gLLL	8ddL	.
+.	.	.	32f#	.	.
+.	.	.	32g	.	.
+.	.	.	32f#JJ	.	.
+8D	A:7	.	32gLL	8ccJ)	(16.aaLL
+.	.	.	32f#	.	.
+.	.	.	32e	.	.
+.	.	.	32f#JJJ	.	32bbJJk)
+=140	=140	=140	=140	=140	=140
+4T	B:min	4E	4g	4b	8.ggL
+.	.	.	.	.	16aaJk
+*-	*-	*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

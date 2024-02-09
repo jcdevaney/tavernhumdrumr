@@ -1,0 +1,59 @@
+!!!COM: Beethoven
+!!!OTL: 6 Variationen uber "Nel cor piu non mi sento" von G. Paisiello
+!!!Variation: Variation 1 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M6/8	*M6/8	*M6/8	*M6/8
+*G:	*G:	*G:	*G:
+8T	D:maj	8r	8dd
+=21	=21	=21	=21
+4.T	D:maj	4.G 4.d	16bLL
+.	.	.	16a#
+.	.	.	16b
+.	.	.	16dd
+.	.	.	16g
+.	.	.	16bJJ
+4.T	C#:dim	4.G 4.c	16aLL
+.	.	.	16g#
+.	.	.	16a
+.	.	.	16cc
+.	.	.	16f#
+.	.	.	16aJJ
+=22	=22	=22	=22
+2.T	D:maj	4G 4B	16gLL
+.	.	.	16d
+.	.	.	16e
+.	.	.	16f#
+.	.	8r	16g
+.	.	.	16aJJ
+.	.	4.r	16bLL
+.	.	.	16cc
+.	.	.	16dd
+.	.	.	16ee
+.	.	.	16ff#
+.	.	.	16ggJJ
+=23	=23	=23	=23
+*	*	*clefG2	*
+4.T	D:maj/3	4.B 4.g	16aaLL
+.	.	.	16gg
+.	.	.	16bb
+.	.	.	16gg
+.	.	.	16ff#
+.	.	.	16eeJJ
+4.P	G:maj	4.c 4.g	16dd#LL
+.	.	.	16ee
+.	.	.	16gg
+.	.	.	16ee
+.	.	.	16dd
+.	.	.	16ccJJ
+=24	=24	=24	=24
+4.D	D:maj/5	4.d 4.g	16bLL
+.	.	.	16cc
+.	.	.	16dd
+.	.	.	16cc#
+.	.	.	16ee
+.	.	.	16ddJJ
+4D	A:maj	4d 4f#	4a
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

@@ -1,0 +1,62 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 8 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*B-:	*B-:	*B-:	*B-:
+=137	=137	=137	=137
+1T	A-:maj	(2BB-	1r
+.	.	4.D	.
+.	.	8C)	.
+=138	=138	=138	=138
+1T	E-:7/3	(4.BB-	[2ee-
+.	.	8AA	.
+.	.	4F')	(12ee-L]
+.	.	.	12cc
+.	.	.	12aJ)
+.	.	4r	(12fL
+.	.	.	12e-
+.	.	.	12cJ)
+=139	=139	=139	=139
+1T	G:min7/5	(2E-	(4B-
+.	.	.	4A)
+.	.	4.G	2r
+.	.	8F)	.
+=140	=140	=140	=140
+1T	A-:7/3	(4.E-	[2aa-
+.	.	8D	.
+.	.	4B-')	(12aa-L]
+.	.	.	12ff
+.	.	.	12ddJ)
+.	.	4r	(12b-L
+.	.	.	12cc
+.	.	.	12a-J)
+=141	=141	=141	=141
+1T	D-:maj	(2E- [2B-	(2g
+.	.	4.G 4.B-]	4.b-
+.	.	8E-) 8B-	8g)
+=142	=142	=142	=142
+2T	A-:maj/3	4D 4B-	4f
+.	.	(4d 4f	(4b- 4ff
+4T	E-:7/5	4c 4f	4a 4ee-
+4T	A-:maj	4B-) 4f	4b-) 4dd
+=143	=143	=143	=143
+*	*	*^	*
+1T	E-:maj	[1F	(4.f	(4.a 4.cc
+.	.	.	8e)	8b-) 8dd
+.	.	.	(4.f	(4.a 4.cc
+.	.	.	8e)	8b-) 8dd
+*	*	*v	*v	*
+=144	=144	=144	=144
+1D	E-:maj	88f 8FL]	8aL 8cc
+.	.	(8F	(8f
+.	.	8E	8e
+.	.	8FJ	8fJ
+.	.	8EL	8eL
+.	.	8F	8f
+.	.	8C	8c
+.	.	8AAJ)	8AJ)
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

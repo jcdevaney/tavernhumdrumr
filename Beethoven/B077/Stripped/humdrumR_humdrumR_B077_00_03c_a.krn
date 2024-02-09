@@ -1,0 +1,39 @@
+!!!COM: Beethoven
+!!!OTL: Sechs leichte variationen
+!!!Variation: Theme c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:	*G:
+4T	D:maj/3	4B 4d	8dd'L
+.	.	.	8dd'J
+=9	=9	=9	=9
+4T	A:7/5	4A 4d	(8ddL
+.	.	.	16ccJk)
+.	.	.	16r
+.	.	.	qcc
+4T	D:maj	4G 4d	(16.bLL)
+.	.	.	32ak
+.	.	.	16.b
+.	.	.	32ccJJk)
+=10	=10	=10	=10
+4T	A:maj	4D 4d	(8bL
+.	.	.	8aJ)
+4T	A:7/b7	4c 4d	8ee'L
+.	.	.	8ee'J
+=11	=11	=11	=11
+4T	D:maj/3	4B 4d	(8eeL
+.	.	.	16ddJk)
+.	.	.	16r
+.	.	.	qdd
+4D	A:7/3	4F# 4d	(16.ccLL)
+.	.	.	32bk
+.	.	.	16.cc
+.	.	.	32ddJJk)
+=12	=12	=12	=12
+4T	D:maj	4G 4d	(8ccL
+.	.	.	16bJk)
+.	.	.	16r
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

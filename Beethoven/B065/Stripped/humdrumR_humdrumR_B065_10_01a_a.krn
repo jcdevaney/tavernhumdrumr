@@ -1,0 +1,52 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 10 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=169	=169	=169	=169
+*	*	*^	*
+4T	E:maj	[2D	4d	(8ff#L
+.	.	.	.	8ddd'J)
+4T	B:maj	.	4c#	(8eeL
+.	.	.	.	8ddd'J)
+=170	=170	=170	=170	=170
+4T	C#:min	2D]	4B 4d	(8ddL
+.	.	.	.	8ddd'J)
+4T	B:maj	.	[4A 4c#	(8cc#L
+.	.	.	.	8ddd'J)
+=171	=171	=171	=171	=171
+4T	E:7	[2D	4A] 4c	(8ccL
+.	.	.	.	8ddd'J)
+4T	A:maj	.	4G 4B	(8bL
+.	.	.	.	8ddd'J)
+=172	=172	=172	=172	=172
+4T	A:min	2D]	4G 4B-	(8b-L
+.	.	.	.	8ddd'J)
+4T	E:maj	.	4F# 4A	(8aL
+.	.	.	.	8ddd'J)
+=173	=173	=173	=173	=173
+4D	E:maj/5	[2AA	4F# 4A	(8aL
+.	.	.	.	8aa'J)
+4D	A:maj	.	4G 4B	(8bL
+.	.	.	.	8aa'J)
+=174	=174	=174	=174	=174
+4D	F#:min	2AA]	4E 4G	(8gL
+.	.	.	.	8aa'J)
+4D	E:maj/5	.	4D 4F#	(8f#L
+.	.	.	.	8aa'J)
+=175	=175	=175	=175	=175
+4D	B:maj	[2AA	4C# 4E	(8eL
+.	.	.	.	8aa'J)
+4D	A:maj	.	4BB 4D	(8dL
+.	.	.	.	8aa'J)
+=176	=176	=176	=176	=176
+2D	B:maj	4.AA]	4C# 4E	(8eL
+.	.	.	.	8aa'J)
+.	.	.	8A	4r
+*	*	*v	*v	*
+.	.	8r	.
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19
